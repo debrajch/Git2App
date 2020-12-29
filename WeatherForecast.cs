@@ -17,5 +17,7 @@ namespace Git2App
         public string Summary2 { get; set; }
 
         public string Summary3 { get; set; }
+
+        public string Summary4 { get; set; }
     }
 }
