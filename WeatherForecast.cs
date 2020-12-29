@@ -27,5 +27,7 @@ namespace Git2App
         public string SummaryOnline7 { get; set; }
         
         public string SummaryOnline8 { get; set; }
+
+        public string FromMain1Branch { get; set; }
     }
 }
